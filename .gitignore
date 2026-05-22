@@ -1,0 +1,24 @@
+# WordPress core files – ignore everything except the custom theme
+# Ignore all root WordPress files
+/*
+!.gitignore
+!wp-content/
+wp-content/*
+!wp-content/themes/
+!wp-content/themes/growmodo-theme/
+wp-content/themes/*
+# Ignore uploads and generated content
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup/
+# OS and editor files
+.DS_Store
+.antigravitycli
+Thumbs.db
+.idea/
+*.log
+# Node modules (if any)
+node_modules/
+# Build output
+dist/
+build/
