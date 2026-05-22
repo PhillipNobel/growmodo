@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 22, 2026 7:17 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.16
+WORDPRESS:	7.0
+PHP INFO:	8.2.0 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/8.2.0 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 48.5MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: 20260522_growmodofigmatest_85bb6eb8b3c79aa17518_20260522191751_database.sql
+SQL FILE SIZE: 1.73MB (1814554)
+SQL FILE TIME: 2026-05-22 19:17:55
+SQL RUNTIME: 0.11 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /Applications/MAMP/htdocs/growmodo
+ARCHIVE FILE: 20260522_growmodofigmatest_85bb6eb8b3c79aa17518_20260522191751_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	111.65MB
+STATS:	Dirs 750 | Files 5,505
+SQL ADDED: 20260522_growmodofigmatest_85bb6eb8b3c79aa17518_20260522191751_database.sql
+ZipArchive Object
+(
+    [lastId] => 6254
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6255
+    [filename] => /Applications/MAMP/htdocs/growmodo/wp-content/backups-dup-lite/tmp/20260522_growmodofigmatest_85bb6eb8b3c79aa17518_20260522191751_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6254
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 38.18MB
+ARCHIVE RUNTIME: 9.92 sec.
+MEMORY STACK: 50.5MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.73MB
+INSTALLER FILE: 73.5KB
+ARCHIVE FILE: 40.04MB 
+EXPECTED FILE/DIRECTORY COUNT: 6,255
+ACTUAL FILE/DIRECTORY COUNT: 6,254
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 14.80 sec.
+PEAK PHP MEMORY USED: 56.5MB
+DONE PROCESSING => 20260522_growmodofigmatest May 22, 2026 7:18 pm
+
